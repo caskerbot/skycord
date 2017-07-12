@@ -1,0 +1,405 @@
+[
+    {
+        "Label": "Primary Bias Roles",
+        "Pool": "bias-roles",
+        "Hidden": true,
+        "Limit": 1,
+        "Roles": [
+            {
+                "Name": "Somi 💎",
+                "Print": "Somi",
+                "Aliases": [
+                    "Somi",
+                    "Jeon Somi",
+                    "Ennik Douma",
+                    "전소미",
+                    "소미"
+                ]
+            },
+            {
+                "Name": "Sejeong 💎",
+                "Print": "Sejeong",
+                "Aliases": [
+                    "Sejeong",
+                    "Kim Sejeong",
+                    "김세정",
+                    "세정"
+                ]
+            },
+            {
+                "Name": "Yoojung 💎",
+                "Print": "Yoojung",
+                "Aliases": [
+                    "Yoojung",
+                    "Choi Yoojung",
+                    "최유정",
+                    "유정"
+                ]
+            },
+            {
+                "Name": "Chungha 💎",
+                "Print": "Chungha",
+                "Aliases": [
+                    "Chungha",
+                    "Kim Chungha",
+                    "김청하",
+                    "청하"
+                ]
+            },
+            {
+                "Name": "Sohye 💎",
+                "Print": "Sohye",
+                "Aliases": [
+                    "Sohye",
+                    "Kim Sohye",
+                    "김소혜",
+                    "소혜"
+                ]
+            },
+            {
+                "Name": "Jieqiong 💎",
+                "Print": "Jieqiong",
+                "Aliases": [
+                    "Jieqiong",
+                    "Zhou Jieqiong",
+                    "Kyulkyung",
+                    "周洁琼",
+                    "주결경",
+                    "결경"
+                ]
+            },
+            {
+                "Name": "Chaeyeon 💎",
+                "Print": "Chaeyeon",
+                "Aliases": [
+                    "Chaeyeon",
+                    "Jung Chaeyeon",
+                    "정채연",
+                    "채연"
+                ]
+            },
+            {
+                "Name": "Doyeon 💎",
+                "Print": "Doyeon",
+                "Aliases": [
+                    "Doyeon",
+                    "Kim Doyeon",
+                    "김도연",
+                    "도연"
+                ]
+            },
+            {
+                "Name": "Mina 💎",
+                "Print": "Mina",
+                "Aliases": [
+                    "Mina",
+                    "Kang Mina",
+                    "강미나",
+                    "미나"
+                ]
+            },
+            {
+                "Name": "Nayoung 💎",
+                "Print": "Nayoung",
+                "Aliases": [
+                    "Nayoung",
+                    "Im Nayoung",
+                    "Lim Nayoung",
+                    "임나영",
+                    "나영"
+                ]
+            },
+            {
+                "Name": "Yeonjung 💎",
+                "Print": "Yeonjung",
+                "Aliases": [
+                    "Yeonjung",
+                    "Yu Yeonjung",
+                    "유연정",
+                    "연정"
+                ]
+            },
+            {
+                "Name": "OT11 💎",
+                "Print": "OT11",
+                "Aliases": [
+                    "OT11",
+                    "I.O.I",
+                    "IOI",
+                    "아이오아이"
+                ]
+            }
+        ],
+        "Message": ""
+    },
+    {
+        "Label": "Bias Roles",
+        "Pool": "bias-roles",
+        "Hidden": false,
+        "Limit": 2,
+        "Roles": [
+            {
+                "Name": "Somi",
+                "Print": "Somi",
+                "Aliases": [
+                    "Somi",
+                    "Jeon Somi",
+                    "Ennik Douma",
+                    "전소미",
+                    "소미"
+                ]
+            },
+            {
+                "Name": "Sejeong",
+                "Print": "Sejeong",
+                "Aliases": [
+                    "Sejeong",
+                    "Kim Sejeong",
+                    "김세정",
+                    "세정"
+                ]
+            },
+            {
+                "Name": "Yoojung",
+                "Print": "Yoojung",
+                "Aliases": [
+                    "Yoojung",
+                    "Choi Yoojung",
+                    "최유정",
+                    "유정"
+                ]
+            },
+            {
+                "Name": "Chungha",
+                "Print": "Chungha",
+                "Aliases": [
+                    "Chungha",
+                    "Kim Chungha",
+                    "김청하",
+                    "청하"
+                ]
+            },
+            {
+                "Name": "Sohye",
+                "Print": "Sohye",
+                "Aliases": [
+                    "Sohye",
+                    "Kim Sohye",
+                    "김소혜",
+                    "소혜"
+                ]
+            },
+            {
+                "Name": "Jieqiong",
+                "Print": "Jieqiong",
+                "Aliases": [
+                    "Jieqiong",
+                    "Zhou Jieqiong",
+                    "Kyulkyung",
+                    "周洁琼",
+                    "주결경",
+                    "결경"
+                ]
+            },
+            {
+                "Name": "Chaeyeon",
+                "Print": "Chaeyeon",
+                "Aliases": [
+                    "Chaeyeon",
+                    "Jung Chaeyeon",
+                    "정채연",
+                    "채연"
+                ]
+            },
+            {
+                "Name": "Doyeon",
+                "Print": "Doyeon",
+                "Aliases": [
+                    "Doyeon",
+                    "Kim Doyeon",
+                    "김도연",
+                    "도연"
+                ]
+            },
+            {
+                "Name": "Mina",
+                "Print": "Mina",
+                "Aliases": [
+                    "Mina",
+                    "Kang Mina",
+                    "강미나",
+                    "미나"
+                ]
+            },
+            {
+                "Name": "Nayoung",
+                "Print": "Nayoung",
+                "Aliases": [
+                    "Nayoung",
+                    "Im Nayoung",
+                    "Lim Nayoung",
+                    "임나영",
+                    "나영"
+                ]
+            },
+            {
+                "Name": "Yeonjung",
+                "Print": "Yeonjung",
+                "Aliases": [
+                    "Yeonjung",
+                    "Yu Yeonjung",
+                    "유연정",
+                    "연정"
+                ]
+            },
+            {
+                "Name": "OT11",
+                "Print": "OT11",
+                "Aliases": [
+                    "OT11",
+                    "I.O.I",
+                    "IOI",
+                    "아이오아이"
+                ]
+            },
+            {
+                "Name": "DoDaeng",
+                "Print": "DoDaeng",
+                "Aliases": [
+                    "DoDaeng"
+                ]
+            }
+        ],
+        "Message": "The bias role you assign **first** will be your **primary role** and **appear above the others**."
+    },
+    {
+        "Label": "Group Roles",
+        "Pool": "",
+        "Hidden": false,
+        "Limit": 1,
+        "Roles": [
+            {
+                "Name": "DIA",
+                "Print": "DIA",
+                "Aliases": [
+                    "DIA",
+                    "DIAMOND",
+                    "Do It Amazing",
+                    "다이아",
+                    "MBK"
+                ]
+            },
+            {
+                "Name": "Gugudan",
+                "Print": "Gugudan",
+                "Aliases": [
+                    "Gugudan",
+                    "gu9udan",
+                    "구구단",
+                    "Jellyfish"
+                ]
+            },
+            {
+                "Name": "iTeen",
+                "Print": "iTeen",
+                "Aliases": [
+                    "iTeen",
+                    "Fantagio"
+                ]
+            },
+            {
+                "Name": "JYP",
+                "Print": "JYP",
+                "Aliases": [
+                    "JYP"
+                ]
+            },
+            {
+                "Name": "M\u0026H",
+                "Print": "M\u0026H",
+                "Aliases": [
+                    "M\u0026H"
+                ]
+            },
+            {
+                "Name": "Pristin",
+                "Print": "Pristin",
+                "Aliases": [
+                    "Pristin",
+                    "프리스틴",
+                    "Pledis Girlz",
+                    "Pledis"
+                ]
+            },
+            {
+                "Name": "S\u0026P",
+                "Print": "S\u0026P",
+                "Aliases": [
+                    "S\u0026P"
+                ]
+            },
+            {
+                "Name": "WJSN",
+                "Print": "WJSN",
+                "Aliases": [
+                    "WJSN",
+                    "Cosmic Girls",
+                    "우주소녀",
+                    "Starship"
+                ]
+            }
+        ],
+        "Message": ""
+    },
+    {
+        "Label": "Gaming Roles",
+        "Pool": "",
+        "Hidden": false,
+        "Limit": -1,
+        "Roles": [
+            {
+                "Name": "Overwatch",
+                "Print": "Overwatch",
+                "Aliases": [
+                    "Overwatch",
+                    "OW"
+                ]
+            },
+            {
+                "Name": "League of Legends",
+                "Print": "League of Legends",
+                "Aliases": [
+                    "League of Legends",
+                    "LoL",
+                    "league"
+                ]
+            },
+            {
+                "Name": "DOTA",
+                "Print": "DOTA",
+                "Aliases": [
+                    "DOTA",
+                    "DOTA2"
+                ]
+            }
+        ],
+        "Message": ""
+    },
+    {
+        "Label": "Other Roles",
+        "Pool": "",
+        "Hidden": false,
+        "Limit": -1,
+        "Roles": [
+            {
+                "Name": "Karaoke",
+                "Print": "Karaoke",
+                "Aliases": [
+                    "Karaoke",
+                    "norebang"
+                ]
+            }
+        ],
+        "Message": ""
+    }
+]
